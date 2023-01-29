@@ -938,7 +938,11 @@ footer .copyright {
 
 #page-header.about-header {
 
-    background-image: url(../images/about/banner.png);
+    background-image: url(../images/about/b7.jpg);
+    background-repeat: no-repeat;
+  background-position-y: center;
+  
+
 }
 
 #about-head {
